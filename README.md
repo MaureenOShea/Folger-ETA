@@ -1,4 +1,5 @@
-Exploratory Text Analytics 
+# Exploratory Text Analytics 
+# DS5001
+# Text Analysis of Shakespeare Plays
 
-Text Analysis of Shakespeare Plays
-READ Manifest for an explanation of files
+READ manifest.pdf for an explanation of files
